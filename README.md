@@ -21,6 +21,8 @@ Esto descargará y levantará Ollama con el modelo Mistral.
 
 ```powershell
 docker exec -it deepeval-ollama-1 ollama run mistral
+or
+docker-compose exec ollama ollama run mistral
 ```
 
 4. **Instala las dependencias de Python:**
