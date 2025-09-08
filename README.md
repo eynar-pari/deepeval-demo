@@ -31,5 +31,5 @@ pip install -r requirements.txt
 5. **Ejecuta el script de ejemplo:**
 
 ```powershell
-python deepeval.py
+python deepeval_test.py
 ```
